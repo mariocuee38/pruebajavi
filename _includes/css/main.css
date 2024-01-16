@@ -62,6 +62,11 @@ hr.star-light {
     border-color: #fff;
 }
 
+
+.img-portfolio {
+    width: 500px;
+}
+
 hr.star-light:after {
     color: #fff;
     background-color: #{{ site.color.primary }};
